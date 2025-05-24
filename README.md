@@ -1,1 +1,1 @@
-![Captura de Tela](img/moto.PNG)
+![Captura de Tela](img/dash.PNG)
